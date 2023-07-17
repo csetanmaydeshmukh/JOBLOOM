@@ -32,7 +32,7 @@ Contributions to the Online Job Portal project are welcome. If you want to make 
 
 Before making significant changes, please discuss them by opening an issue to ensure they align with the project's goals.
 # Contact
-If you have any questions or suggestions, feel free to contact the project maintainers:
-Tanmay Deshmukh
-9284642663
+If you have any questions or suggestions, feel free to contact the project maintainers:<br>
+Tanmay Deshmukh<br>
+9284642663<br>
 We appreciate your interest in our project!
